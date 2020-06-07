@@ -1,0 +1,37 @@
+"*":
+  "autocomplete-plus":
+    autoActivationDelay: 5
+    scopeBlacklist: [
+      ".comment"
+    ]
+  "autocomplete-python":
+    pythonPaths: "/home/rahul/venv/bin/python;/usr/bin/python"
+    useKite: false
+    useSnippets: "required"
+  core:
+    disabledPackages: [
+      "script"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "firewatch-syntax"
+    ]
+  editor:
+    tabLength: 4
+  "exception-reporting":
+    userId: "172774ab-bdf2-4ffc-934a-0550a0c19257"
+  "linter-flake8":
+    maxLineLength: 120
+  "linter-ui-default":
+    panelHeight: 264.23077392578125
+  "platformio-ide-terminal":
+    core: {}
+  "tree-view":
+    autoReveal: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+".java.source":
+  editor:
+    tabLength: 4
