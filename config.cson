@@ -4,13 +4,8 @@
     scopeBlacklist: [
       ".comment"
     ]
-  "autocomplete-python":
-    pythonPaths: "/home/rahul/venv/bin/python;/usr/bin/python"
-    useKite: false
-    useSnippets: "required"
   core:
     disabledPackages: [
-      "script"
     ]
     telemetryConsent: "limited"
     themes: [
